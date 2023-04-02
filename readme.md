@@ -1,3 +1,7 @@
+# Speech-to-Text tool.
+## Stack: Terminal, Python, IBM Watson API, Web browser (for spinning the instance: easy)
+### Let me know if I missed anything!
+
 To use IBM Watson Speech to Text service to transcribe an audio file and save the result in a .txt file, follow these steps:
 
 ### Create an account:
